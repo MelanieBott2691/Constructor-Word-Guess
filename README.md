@@ -18,4 +18,7 @@
 #### Set-Up
 - Letter.js does not require any other files
 - Word.js only requires Letter.js
+
+## Screenshot Images of Constructor-Word_Guess
+
  
