@@ -4,14 +4,13 @@
 var Word = require("./word.js");
 var inquirer = require("inquirer");
 
-
 // array of words to be entered
 var wordArray = ["corona", "quarantine", "toilet paper", "pandemic", "clorox", "hand sanitizer", "zoom", "six feet"];
 var randomWord = "";
 var wordDisplay = "";
 var lastWord;
 var guessesLeft;
-var lives = 4;
+var lives = 5;
 
 function newGame() {
     randomWord = "";
