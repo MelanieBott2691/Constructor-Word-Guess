@@ -4,6 +4,7 @@
   "description": "\"\",",
   "main": "Letter.js",
   "dependencies": {
+    "gitignore": "^0.6.0",
     "inquire": "^0.4.8",
     "inquirer": "^7.1.0",
     "prompt": "^1.0.0"
