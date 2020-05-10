@@ -1,3 +1,5 @@
+// LETTER.JS 
+
 function Letter(value) {
     this.value = value;
     this.guessed = false;

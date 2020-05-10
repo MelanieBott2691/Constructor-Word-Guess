@@ -1,4 +1,4 @@
-// INDEX.JS
+// INDEX.JS requires word.js
 
 // initialize constructor
 var Word = require("./word.js");

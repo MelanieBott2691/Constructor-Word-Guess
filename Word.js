@@ -1,4 +1,4 @@
-// WORD.JS
+// WORD.JS requires letter.js
 
 var Letter = require("./letter.js");
 
