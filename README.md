@@ -2,6 +2,8 @@
 ### Instructions
 With the Constructor-Word-Guess game user guesses a letter to try to find out the word, similar to hang-man.
 
+ https://melaniebott2691.github.io/Constructor-Word-Guess/
+ 
 ### Game Set-up
 - The completed game can receive user input using inquirer npm package
 - The solution has a minimum of three files
