@@ -17,6 +17,13 @@ With the Constructor-Word-Guess game user guesses a letter to try to find out th
      * randomly selects a word and uses the Word constructor to store it
      * prompts the user for each guess and keeps track of the user's remaining guesses
 
+#### Technologies Used
+- Node.js
+- JavaScript
+- NPM for JS library management
+- Inquire.js
+- JSON packages
+
 #### Files Used
 - Index.js is dependent on Word.js
 - Word.js only requires Letter.js
@@ -24,4 +31,6 @@ With the Constructor-Word-Guess game user guesses a letter to try to find out th
 
 ## Screenshot Images of Constructor-Word_Guess
 
- 
+ <img src="images/constructor.png">
+ <video width="400" controls>
+ <source src="constructor1.mp4" type="video/mp4></video>
