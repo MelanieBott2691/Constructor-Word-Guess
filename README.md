@@ -37,5 +37,4 @@ With the Constructor-Word-Guess game user guesses a letter to try to find out th
 
 ![Video](/images/constructor1.mp4)
 
- <video width="400" controls>
- <source src="constructor1.mp4" type="video/mp4></video>
+
